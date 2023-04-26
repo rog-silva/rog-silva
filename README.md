@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Roger, a newbie Full-Stack web developer. I discovered my passion for coding during my time at @lewagon bootcamp.
-My final project, called [Musique, Where's The Funk](https://github.com/OmaryMahboob/le-musique-project), was a culmination of all the skills and knowledge I gained during the program. [musique.wtf](https://www.musique.wtf) is a social network for musicians and bands, providing a platform for both parties to connect and collaborate.
+My final project, called [Musique, Where's The Funk](https://github.com/OmaryMahboob/le-musique-project), was a culmination of all the skills and knowledge I gained during the program. Our website, [musique.wtf](https://www.musique.wtf) is a social network for musicians and bands, providing a platform for both parties to connect and collaborate.
 
 Since then, I've been working on various web development projects and sharing my knowledge as a proud TA for Speak & Code.
 
