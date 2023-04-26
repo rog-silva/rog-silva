@@ -12,12 +12,12 @@ I'm constantly learning and striving to improve my skills in front-end and back-
   </a>
 </p>
 <br>
-<a href="mailto:roger.silva@live.cl" >
+<span>
   <img src="https://user-images.githubusercontent.com/117030484/234676614-0509bf6c-f8e3-4653-83dc-a01353701da0.png" height="20px" />
-  <span>Send me an email</span>
-</a>
+  Send me an <a href="mailto:roger.silva@live.cl">email</a>
+</span>
 <br>
-<a href="https://www.linkedin.com/in/rog-silva/">
+<span>
   <img src="https://user-images.githubusercontent.com/117030484/234676223-a741aa77-c58a-4833-928b-d4b7593dfb28.png" height="20px" />
-  <span">Contact me through Linkedin</span>
-</a>
+  Contact me through <a href="https://www.linkedin.com/in/rog-silva/">Linkedin</a>
+</span>
